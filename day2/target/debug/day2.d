@@ -1,0 +1,1 @@
+/home/andre.novais/area_de_trabalho/code-andre/advent_of_code_2022/day2/target/debug/day2: /home/andre.novais/area_de_trabalho/code-andre/advent_of_code_2022/day2/src/input.rs /home/andre.novais/area_de_trabalho/code-andre/advent_of_code_2022/day2/src/main.rs
