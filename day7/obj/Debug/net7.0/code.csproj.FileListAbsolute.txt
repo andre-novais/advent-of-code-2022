@@ -1,0 +1,15 @@
+/home/andre/Desktop/code/consolee/bin/Debug/net7.0/code
+/home/andre/Desktop/code/consolee/bin/Debug/net7.0/code.deps.json
+/home/andre/Desktop/code/consolee/bin/Debug/net7.0/code.runtimeconfig.json
+/home/andre/Desktop/code/consolee/bin/Debug/net7.0/code.dll
+/home/andre/Desktop/code/consolee/bin/Debug/net7.0/code.pdb
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.csproj.AssemblyReference.cache
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.AssemblyInfoInputs.cache
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.AssemblyInfo.cs
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.csproj.CoreCompileInputs.cache
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.dll
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/refint/code.dll
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.pdb
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/code.genruntimeconfig.cache
+/home/andre/Desktop/code/consolee/obj/Debug/net7.0/ref/code.dll
