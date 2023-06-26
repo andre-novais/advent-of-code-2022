@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVzpC2DQ8VuKhAr1sF3l4JHkCYG7izCBI9o2KXL+2+zO1WbfPdfBoPG5T2XCLgg9CZslnLcSUGCpS5fx6d+ILw==",
+  "dgSpecHash": "tOOQPQ1WwH7aKacLs/JCMBTrl2ynfPU396bZH4WqSxJPRjw3zrF7kRZCitBID+BSMTEsDQAcRftA0STFHmsi5Q==",
   "success": true,
-  "projectFilePath": "/home/andre/Desktop/code/consolee/code.csproj",
+  "projectFilePath": "/home/andre/Desktop/code/advent-of-code-2022/day7/code.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

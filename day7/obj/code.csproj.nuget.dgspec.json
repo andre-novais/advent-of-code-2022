@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andre/Desktop/code/consolee/code.csproj": {}
+    "/home/andre/Desktop/code/advent-of-code-2022/day7/code.csproj": {}
   },
   "projects": {
-    "/home/andre/Desktop/code/consolee/code.csproj": {
+    "/home/andre/Desktop/code/advent-of-code-2022/day7/code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andre/Desktop/code/consolee/code.csproj",
+        "projectUniqueName": "/home/andre/Desktop/code/advent-of-code-2022/day7/code.csproj",
         "projectName": "code",
-        "projectPath": "/home/andre/Desktop/code/consolee/code.csproj",
+        "projectPath": "/home/andre/Desktop/code/advent-of-code-2022/day7/code.csproj",
         "packagesPath": "/home/andre/.nuget/packages/",
-        "outputPath": "/home/andre/Desktop/code/consolee/obj/",
+        "outputPath": "/home/andre/Desktop/code/advent-of-code-2022/day7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andre/.nuget/NuGet/NuGet.Config"
